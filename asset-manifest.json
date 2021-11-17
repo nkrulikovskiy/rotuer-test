@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/rotuer-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/rotuer-test/static/js/main.31d62805.chunk.js",
-    "main.js.map": "/rotuer-test/static/js/main.31d62805.chunk.js.map",
+    "main.js": "/rotuer-test/static/js/main.9d1ad199.chunk.js",
+    "main.js.map": "/rotuer-test/static/js/main.9d1ad199.chunk.js.map",
     "runtime-main.js": "/rotuer-test/static/js/runtime-main.addfc098.js",
     "runtime-main.js.map": "/rotuer-test/static/js/runtime-main.addfc098.js.map",
-    "static/js/2.2a968659.chunk.js": "/rotuer-test/static/js/2.2a968659.chunk.js",
-    "static/js/2.2a968659.chunk.js.map": "/rotuer-test/static/js/2.2a968659.chunk.js.map",
+    "static/js/2.30832c1b.chunk.js": "/rotuer-test/static/js/2.30832c1b.chunk.js",
+    "static/js/2.30832c1b.chunk.js.map": "/rotuer-test/static/js/2.30832c1b.chunk.js.map",
     "static/js/3.44792336.chunk.js": "/rotuer-test/static/js/3.44792336.chunk.js",
     "static/js/3.44792336.chunk.js.map": "/rotuer-test/static/js/3.44792336.chunk.js.map",
     "index.html": "/rotuer-test/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/rotuer-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2a968659.chunk.js.LICENSE.txt": "/rotuer-test/static/js/2.2a968659.chunk.js.LICENSE.txt"
+    "static/js/2.30832c1b.chunk.js.LICENSE.txt": "/rotuer-test/static/js/2.30832c1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.addfc098.js",
-    "static/js/2.2a968659.chunk.js",
+    "static/js/2.30832c1b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.31d62805.chunk.js"
+    "static/js/main.9d1ad199.chunk.js"
   ]
 }
